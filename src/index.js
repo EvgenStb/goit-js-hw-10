@@ -83,6 +83,3 @@ function cleanMarkup () {
     refs.countryCard.innerHTML = ''
 }
 // ==========================================
-
-
-
